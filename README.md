@@ -1,4 +1,4 @@
-#An interactive react website which acts as my personal portfolio
+# An interactive react website which acts as my personal portfolio
 
 
 # Getting Started with Create React App
